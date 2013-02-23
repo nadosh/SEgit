@@ -2,6 +2,10 @@
 ;
 ;
 
+<<<<<<< HEAD
 	First draft
 second draft
 third draft
+=======
+	First draft
+>>>>>>> parent of 27cd1e2... change 1
